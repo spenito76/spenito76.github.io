@@ -1,13 +1,22 @@
-html {
+body {
     background-image: radial-gradient(#000, #080808, #000);
     background-repeat: no-repeat;
     background-size: cover;
+    display: flex;
 }
 
 .header {
     color: #3333cc;
 }
 
+#footer {
+    flex-shrink: 0;
+}
+
 .content {
     color: #00aa00;
+}
+
+#main {
+    flex: 1 0 auto;
 }
