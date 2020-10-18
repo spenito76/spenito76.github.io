@@ -10,6 +10,15 @@ body {
     flex-direction: column;
 }
 
+a {
+    color: #00ffff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 .header {
     color: #3333cc;
 }
