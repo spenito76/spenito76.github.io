@@ -1,10 +1,13 @@
+html, body {
+    height: 100%;
+}
+
 body {
     background-image: radial-gradient(#000, #080808, #000);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
     flex-direction: column;
-    height: 100%;
 }
 
 .header {
