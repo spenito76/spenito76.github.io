@@ -3,3 +3,7 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.header {
+    color: linear-gradient(180deg, #00ffff, #ff0000);
+}
