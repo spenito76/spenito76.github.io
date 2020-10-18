@@ -1,3 +1,5 @@
 body {
     background-image: radial-gradient(#000, #080808, #000);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
